@@ -1,0 +1,32 @@
+body {
+    width: 400;
+    margin: 0 auto;
+    background-color: rgb(236, 229, 230);
+    padding: 0 10px 10px 10px;
+    border: 100px solid rgb(177, 149, 149);
+}
+h1{
+    margin: 0;
+    padding: 10px 0;
+    color: rgb(174, 62, 84);
+    text-shadow: 10px 10px 5px , black;
+}
+
+p {
+  text-decoration-color: rgb(47, 20, 110);
+}
+div{
+    color: rgb(206, 34, 120);
+}
+input {
+    color: rgb(77, 121, 87);
+    transition: border-color 0.3s ease;
+}
+input:focus{
+    border-color: blue;
+    outline: auto;
+}
+button{
+    background-color: rgb(205, 186, 199);
+     padding: 0 10px 10px 10p
+}
